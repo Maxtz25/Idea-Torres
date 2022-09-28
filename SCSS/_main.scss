@@ -1,0 +1,28 @@
+main {
+ nav {
+    ul {
+        text-align: end;
+        font-size: large;
+        li {
+            display: inline-block;
+            background-color: yellow;
+            border: 1px solid $boton-color;
+            margin-bottom: auto;
+            
+            a {
+                text-decoration: none;
+                color: black;
+                &:hover {
+                    background-color: black;
+                    color: $mi-color;
+                }
+            }
+        }
+    }
+}
+    img {
+        margin-left: 150px;
+        height: 400px;
+        width: 1000px;
+    }
+}

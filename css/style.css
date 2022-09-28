@@ -1,0 +1,55 @@
+header img {
+  background-color: aquamarine;
+  margin-left: 50px;
+}
+header h1 {
+  text-align: center;
+  -webkit-text-decoration: underline blue;
+          text-decoration: underline blue;
+  color: orange;
+}
+
+main nav ul {
+  text-align: end;
+  font-size: large;
+}
+main nav ul li {
+  display: inline-block;
+  background-color: yellow;
+  border: 1px solid red;
+  margin-bottom: auto;
+}
+main nav ul li a {
+  text-decoration: none;
+  color: black;
+}
+main nav ul li a:hover {
+  background-color: black;
+  color: blue;
+}
+main img {
+  margin-left: 150px;
+  height: 400px;
+  width: 1000px;
+}
+
+footer h2 {
+  color: orange;
+  font-size: xx-large;
+}
+footer h3 {
+  text-align: end;
+  color: blue;
+  font-size: x-large;
+}
+footer div {
+  text-align: end;
+}
+footer div a img {
+  margin: 5px;
+  padding: 5px;
+}
+footer div a img {
+  margin: 5px;
+  padding: 5px;
+}
